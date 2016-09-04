@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CourserAPP_3</string>
+    <string name="love_pets">Mascotas mas queridas.</string>
+    <string name="detail">Detalle</string>
+    <string name="name">Nombre</string>
+    <string name="race">Raza</string>
+    <string name="popularity">Popularidad</string>
+    <string name="image">Imagen</string>
+
+</resources>
